@@ -1,10 +1,32 @@
-### Hi there 👋
+### Hi there 👋 I'm Xiao Xu.
+
+- 🌱 I’m currently learning nlp and ml/dl in [HIT-SCIR](https://ir.hit.edu.cn).
+- 💬 Communicate with me: [Zhihu](https://www.zhihu.com/people/qinlibo_nlp).
+- 📫 How to reach me: [School](mailto:lbqin@ir.hit.edu.cn).
+- ⚡ Fun fact: Love music, sining, animation, sports and all good things in my life.
+
+<a href="https://yizhen20133868.github.io/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yizhen20133868&count_private=true&show_icons=true" />
+</a>  
 
 <!--
-**yizhen20133868/yizhen20133868** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://yizhen20133868.github.io/">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yizhen20133868&hide=HTML,PostScript,JavaScript,Java,CSS&layout=compact" />
+</a>
 
-Here are some ideas to get you started:
+<a href="https://yizhen20133868.github.io/">
+  <img align="left" src="https://github.com/yizhen20133868/Awesome-SLU-Survey" />
+</a>
 
+<a href="https://yizhen20133868.github.io/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yizhen20133868&repo=MIT-Linear-Algebra-Notes" />
+</a>
+-->
+
+
+
+
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
