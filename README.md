@@ -14,11 +14,11 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yizhen20133868&hide=HTML,PostScript,JavaScript,Java,CSS&layout=compact" />
 </a>
 -->
-<a href="https://yizhen20133868.github.io/">
+<a href="https://github.com/yizhen20133868/Awesome-SLU-Survey">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yizhen20133868&repo=Awesome-SLU-Survey" />
 </a>
 
-<a href="https://yizhen20133868.github.io/">
+<a href="https://github.com/yizhen20133868/Awesome-SLU-Survey">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yizhen20133868&repo=MIT-Linear-Algebra-Notes" />
 </a>
 
