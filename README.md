@@ -1,8 +1,8 @@
-### Hi there 👋 I'm Xiao Xu.
+### Hi there 👋 I'm Libo Qin.
 
 - 🌱 I’m currently learning nlp and ml/dl in [HIT-SCIR](https://ir.hit.edu.cn).
 - 💬 Communicate with me: [Zhihu](https://www.zhihu.com/people/qinlibo_nlp).
-- 📫 How to reach me: [School](mailto:lbqin@ir.hit.edu.cn).
+- 📫 How to reach me: [Email](mailto:lbqin@ir.hit.edu.cn).
 - ⚡ Fun fact: Love music, sining, animation, sports and all good things in my life.
 
 <a href="https://yizhen20133868.github.io/">
