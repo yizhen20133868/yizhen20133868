@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Libo Qin.
 
-- 🌱 I’m currently learning nlp and ml/dl in [HIT-SCIR](http://ir.hit.edu.cn/).
+- 🌱 I’m a PhD. Candidate in [HIT-SCIR](http://ir.hit.edu.cn/).
 - 💬 Communicate with me: [Zhihu](https://www.zhihu.com/people/qinlibo_nlp), [WeChat](https://mp.weixin.qq.com/s/VhZW2qS_UC3kUdXhvAVKxA).
-- 📫 How to reach me: [Email](mailto:lbqin@ir.hit.edu.cn).
+- 📫 How to reach me: [Email](mailto:lbqin@ir.hit.edu.cn) or [Homepage](http://ir.hit.edu.cn/~lbqin/).
 - ⚡ Fun fact: Love music, sining, animation, sports and all good things in my life.
 
 <a href="https://yizhen20133868.github.io/">
